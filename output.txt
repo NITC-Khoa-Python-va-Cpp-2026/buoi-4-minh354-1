@@ -1,0 +1,8 @@
+Welcome to the Python file handling lab.
+Today we learn how to open files.
+Next, we learn how to read data from files.
+We also practice writing data to files.
+Files can be opened in different modes.
+
+Họ và tên: Minh Phạm Quang
+Họ và tên: pham quang minh
